@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1746029229 source:c:\users\sis\documents\30-04-25\menu de nombres\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
